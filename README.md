@@ -1,6 +1,8 @@
 # three-toon-outline-material
 
 * Three.js用のトゥーン+背面法アウトラインマテリアルです。
+  * <a href="/src/js/material/outline-material.js">CustomOutlineMaterial</a>
+  * <a href="/src/js/material/toon-material.js">CustomToonMaterial</a>
 
 <img width="480px;" src="/ReadMeContents/01_toon_outline_material.png" >
 
