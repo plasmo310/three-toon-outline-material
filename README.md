@@ -6,11 +6,7 @@
 
 <img width="480px;" src="/ReadMeContents/01_toon_outline_material.png" >
 
-## 起動方法
-
-* `src`フォルダ配下で、`npx serve .`を実行すると起動できます。
-
-## 使い方サンプル
+## 使い方について
 
 * アウトライン用のメッシュを別に用意し、そちらに`CustomOutlineMaterial`を設定してください。
   * 重ねるメッシュのマテリアルは任意ですが、カスタムのトゥーン描画マテリアルも`CustomToonMaterial`として用意しています。
@@ -65,3 +61,7 @@ export class Torus {
 
 }
 ```
+
+## サンプル起動方法
+
+* `src`フォルダ配下で、`npx serve .`を実行すると起動できます。
